@@ -1,6 +1,6 @@
 Job: Software Engineer
 
-Location: Bellevue, WA
+Location: Kirkland, WA
 
 [LinkedIn](https://www.linkedin.com/in/kathrynblackley/)
 
